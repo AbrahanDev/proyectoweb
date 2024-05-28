@@ -5,7 +5,6 @@ import Programs from './Components/Programs/Programs.jsx'
 import Title from './Components/Title/Title.jsx'
 import About from './Components/About/About.jsx'
 
-
 const App = () => {
   return (
     <div>
@@ -16,7 +15,6 @@ const App = () => {
           <Programs/>
         </div>
         <About/>
-        
     </div>
   )
 }

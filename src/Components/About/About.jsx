@@ -24,7 +24,12 @@ const About = () => {
                 <li>Oftalmología: Para el cuidado de la salud ocular y la corrección de problemas de visión.</li>
                 <li>Otorrinolaringología: Para el diagnóstico y tratamiento de problemas del oído, nariz y garganta.</li>
             </ol>
-            
+            {/*de la linea 28 al 40 es el siguiente video de la odontologa e*/}
+            {/*<div className="about_rightodonto">
+            <img src={about_img} alt="" className='odontologia_img'/>--importar la imagen de la odontologa
+            <img src={play_img} alt="" className='play_img'/>
+        </div>
+        <div className="about_leftodonto"></div>
             <p className='negritaodonto'> Para odontologia:</p>
             <ol class='odontologia'>
                 <li>Odontología general: Para limpiezas dentales, tratamientos de caries, restauraciones dentales, etc.</li>
@@ -33,7 +38,7 @@ const About = () => {
                 <li>Endodoncia: Para el tratamiento de conductos radiculares (endodoncias).</li>
                 <li>Periodoncia: Para el tratamiento de enfermedades de las encías y tejidos que sostienen los dientes.</li>
                 <li>Odontopediatría: Para el cuidado dental de niños y adolescentes.</li>
-            </ol>
+            </ol>*/}
         </div>
     </div>
   )
