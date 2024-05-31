@@ -4,6 +4,8 @@ import Hero from './Components/Hero/Hero.jsx'
 import Programs from './Components/Programs/Programs.jsx'
 import Title from './Components/Title/Title.jsx'
 import About from './Components/About/About.jsx'
+import Direction from './Components/Direction/Direction.jsx'
+import Contacts from './Components/Contacts/Contacts.jsx'
 
 
 const App = () => {
@@ -16,6 +18,8 @@ const App = () => {
           <Programs/>
         </div>
         <About/>
+        <Direction/>
+        <Contacts/>
         
     </div>
   )
