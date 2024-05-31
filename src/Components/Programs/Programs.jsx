@@ -25,7 +25,6 @@ const Programs = () => {
           <p>Medico General</p>
         </div>
       </div>
-
     </div>
   )
 }

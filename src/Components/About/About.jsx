@@ -26,7 +26,16 @@ const About = () => {
                 <li>Oftalmología: Para el cuidado de la salud ocular y la corrección de problemas de visión.</li>
                 <li>Otorrinolaringología: Para el diagnóstico y tratamiento de problemas del oído, nariz y garganta.</li>
             </ol>
-           
+            
+            <p className='negritaodonto'> Para odontologia:</p>
+            <ol class='odontologia'>
+                <li>Odontología general: Para limpiezas dentales, tratamientos de caries, restauraciones dentales, etc.</li>
+                <li>Ortodoncia: Para la corrección de la posición de los dientes y mandíbula.</li>
+                <li>Cirugía oral: Para extracciones dentales, implantes dentales, cirugía de encías, etc.</li>
+                <li>Endodoncia: Para el tratamiento de conductos radiculares (endodoncias).</li>
+                <li>Periodoncia: Para el tratamiento de enfermedades de las encías y tejidos que sostienen los dientes.</li>
+                <li>Odontopediatría: Para el cuidado dental de niños y adolescentes.</li>
+            </ol>
         </div>
     </div>
   )
